@@ -1,1 +1,11 @@
-# NSE6210-2023-Project6-Group2
+INSE 6120 : Cryptographic Protocols and Network Security Project
+
+Project Proposal : Ethereum Smart Contract Analysis
+
+Submitted to: Ivan Pustogarov
+
+Submitted by: Group - 
+
+Student Name : Student ID
+
+Darshit Gajjar : 40224405
